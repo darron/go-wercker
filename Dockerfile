@@ -1,4 +1,4 @@
-FROM octohost/go:latest
+FROM octohost/go:1.5.3
 
 ENV LANGUAGE en_US.UTF-8
 ENV LANG en_US.UTF-8
